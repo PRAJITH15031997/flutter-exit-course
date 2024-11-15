@@ -25,7 +25,7 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
-  final String apiKey = 'YOUR_TMDB_API_KEY';
+  final String apiKey = 'e547e17d4e91f3e62a571655cd1ccaff';
   final TextEditingController _searchController = TextEditingController();
   List movies = [];
   List favorites = [];
